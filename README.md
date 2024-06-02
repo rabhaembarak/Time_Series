@@ -1,5 +1,4 @@
-                                                                ![image](https://github.com/rabhaembarak/Time_Series/assets/161968874/d24498e2-c4b4-453f-85dc-73283da66cdf)
-
+![image](https://github.com/rabhaembarak/Time_Series/assets/161968874/d24498e2-c4b4-453f-85dc-73283da66cdf)
 
 # Time Series Season Classification Based on Energy Consumption
 
